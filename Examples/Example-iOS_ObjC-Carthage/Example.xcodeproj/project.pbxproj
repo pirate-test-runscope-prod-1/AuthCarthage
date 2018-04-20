@@ -119,7 +119,7 @@
 				TargetAttributes = {
 					346E91681C29D42800D3620B = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 9KBH5RKYEW;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -289,9 +289,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 9KBH5RKYEW;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -300,10 +300,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.net.openid.appauth.Example;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.CleanReactNative-df";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
-				PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
+				PROVISIONING_PROFILE = "1d5343ee-b629-4d0f-aeb8-374bcd744774";
+				PROVISIONING_PROFILE_SPECIFIER = "CleanReactNative Dogfood Distribution";
 			};
 			name = Debug;
 		};
@@ -312,9 +312,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+        "CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 9KBH5RKYEW;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -323,10 +323,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.net.openid.appauth.Example;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.CleanReactNative-df";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
-				PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
+        PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
+        PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
 			};
 			name = Release;
 		};
