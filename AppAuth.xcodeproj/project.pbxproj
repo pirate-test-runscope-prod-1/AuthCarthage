@@ -2097,7 +2097,7 @@
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iOS Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
@@ -2125,7 +2125,7 @@
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iOS Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
