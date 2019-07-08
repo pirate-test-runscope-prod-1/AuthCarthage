@@ -1278,7 +1278,7 @@
 					343AAA531E83463400F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = UBF8T346G9;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					343AAA5B1E83463400F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -2098,7 +2098,7 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iOS Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = UBF8T346G9;
@@ -2126,7 +2126,7 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iOS Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = UBF8T346G9;
