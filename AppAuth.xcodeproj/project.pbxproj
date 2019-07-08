@@ -1249,24 +1249,30 @@
 				TargetAttributes = {
 					340DAE4D1D58216A00EC285B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 5Z97G9NZQ6;
 					};
 					340E737B1C5D819B0076B1F6 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 5Z97G9NZQ6;
 					};
 					341741EF1C5D8283000EF209 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						LastSwiftMigration = 0900;
 					};
 					341AA4CD1E7F392C00FCA5C6 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					341AA4EC1E7F39F100FCA5C6 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					341E707D1DE18744004353C1 = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					343AAA531E83463400F9D36E = {
@@ -1276,14 +1282,17 @@
 					};
 					343AAA5B1E83463400F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					343AAA981E83487200F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					343AAAA51E83489A00F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					343AAAAD1E83489A00F9D36E = {
@@ -1292,14 +1301,17 @@
 					};
 					343AAAC11E8348A900F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					343AAAC91E8348AA00F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					347423F51E7F4B5600D3E6D6 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -1865,6 +1877,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DevelopmentTeam = 5Z97G9NZQ6;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -1918,6 +1931,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DevelopmentTeam = 5Z97G9NZQ6;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
