@@ -1249,70 +1249,70 @@
 				TargetAttributes = {
 					340DAE4D1D58216A00EC285B = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 					};
 					340E737B1C5D819B0076B1F6 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 					};
 					341741EF1C5D8283000EF209 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						LastSwiftMigration = 0900;
 					};
 					341AA4CD1E7F392C00FCA5C6 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					341AA4EC1E7F39F100FCA5C6 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					341E707D1DE18744004353C1 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					343AAA531E83463400F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Manual;
 					};
 					343AAA5B1E83463400F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					343AAA981E83487200F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					343AAAA51E83489A00F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					343AAAAD1E83489A00F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					343AAAC11E8348A900F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					343AAAC91E8348AA00F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					347423F51E7F4B5600D3E6D6 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -1878,7 +1878,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -1932,7 +1932,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -2101,7 +2101,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -2129,7 +2129,8 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 
+				;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
