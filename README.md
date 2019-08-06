@@ -24,6 +24,7 @@ custom URI scheme redirects are used. The library is friendly to other
 extensions (standard or otherwise) with the ability to handle additional params
 in all protocol requests and responses.
 
+
 ## Specification
 
 ### iOS
